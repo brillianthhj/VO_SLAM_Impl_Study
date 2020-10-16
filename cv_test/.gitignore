@@ -1,0 +1,6 @@
+*.txt
+*.png
+CMakeFiles/
+*.cmake
+Makefile
+cv_test
